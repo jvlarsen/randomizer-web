@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Participant from './Participant';
+import Participant from './components/Participant';
+import RandomizerButton from './components/RandomizerButton';
+import Input from './components/Input';
 
 class App extends Component {
   render() {
@@ -15,6 +17,9 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <RandomizerButton />
+        <Input placeholderText="Participant name"/>
+        <Input placeholderText="Player name" />
       </div>
     );
   }
