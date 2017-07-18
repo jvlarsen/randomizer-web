@@ -40,3 +40,6 @@ D:\SourceCode\randomizer-web\randomizer\randomizer\bin\System.Web.Http.WebHost.x
 D:\SourceCode\randomizer-web\randomizer\randomizer\obj\Debug\randomizer.csprojResolveAssemblyReference.cache
 D:\SourceCode\randomizer-web\randomizer\randomizer\obj\Debug\randomizer.dll
 D:\SourceCode\randomizer-web\randomizer\randomizer\obj\Debug\randomizer.pdb
+D:\SourceCode\randomizer-web\randomizer\randomizer\bin\System.Web.Cors.dll
+D:\SourceCode\randomizer-web\randomizer\randomizer\bin\System.Web.Http.Cors.dll
+D:\SourceCode\randomizer-web\randomizer\randomizer\bin\System.Web.Http.Cors.xml
