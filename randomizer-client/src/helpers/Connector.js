@@ -7,7 +7,11 @@ const countClicks = () => {
 	console.log('Function called.');
 }
 
+const savePlayer = (name) => {
+	console.log('Save player called with ' + name + ' playing for {team}.')
+}
 
 export default {
 	countClicks,
+	savePlayer,
 }

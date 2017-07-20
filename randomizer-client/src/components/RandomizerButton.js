@@ -5,7 +5,7 @@ import Connector from '../helpers/Connector';
 export default class RandomizerButton extends React.Component {
 	render() {
 		return(
-			<button className="randomizerButton" onClick={() => Connector.countClicks()}>
+			<button className="randomizerButton" onClick={Connector.countClicks}>
 				Randomize
 			</button>
 			);
